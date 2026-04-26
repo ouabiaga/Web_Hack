@@ -6,7 +6,7 @@ Unauthorized use against real systems is illegal and unethical.
 ## Features
 - WHOIS lookup
 - Nmap/Nikto integration (for authorized systems)
-- Demo brute force & password spray
+- brute force & password spray
 - Traffic anomaly detection (DDoS awareness)
 
 ## How to Run
