@@ -11,4 +11,4 @@ Unauthorized use against real systems is illegal and unethical.
 
 ## How to Run
 ```bash
-python tool.py
+python WebHack.py
